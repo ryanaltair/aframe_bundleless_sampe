@@ -1,0 +1,26 @@
+{
+  "name": "aframe_bundleless_sample",
+  "version": "1.0.0",
+  "description": "use aframe and snowpack together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanaltair/aframe_bundleless_sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanaltair/aframe_bundleless_sample/issues"
+  },
+  "homepage": "https://github.com/ryanaltair/aframe_bundleless_sample#readme",
+  "devDependencies": {
+    "snowpack": "^2.12.1"
+  },
+  "dependencies": {
+    "aframe": "^1.0.4"
+  },
+  "snowpack": {}
+}
